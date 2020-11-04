@@ -1,2 +1,4 @@
 # hello-world
-A quick tutorial.
+Hi everybody! 
+
+Dr Nick here, I love to code.
